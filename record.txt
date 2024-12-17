@@ -1,0 +1,9 @@
+accumulated changes are as follows:
+lab1_1:
+	kernel/strap.c
+lab1_2:
+	kernel/strap.c
+	kernel/machine/mtrap.c
+lab1_3:
+	kernel/strap.c
+    kernel/machine/mtrap.c
